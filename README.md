@@ -32,7 +32,7 @@ Bisa juga dilihat pada mode CLI/terminal dengan menggunakan perintah > system li
          features:
     [admin@MikroTik] >
 
-Kesimpulan: 
+# Kesimpulan
 Lisensi RouterOS adalah sistem perizinan yang digunakan untuk mengatur fitur dan kapasitas pada perangkat lunak RouterOS milik MikroTik. Terdapat beberapa level lisensi, yang masing-masing memberikan akses ke fitur dan kemampuan jaringan yang berbeda, seperti jumlah tunnel, jumlah pengguna hotspot, dukungan routing, dan fitur-fitur tambahan lainnya.
 
 Pemilihan level lisensi bergantung pada kebutuhan jaringan pengguna—mulai dari penggunaan kecil (rumahan atau SOHO) hingga skala besar (ISP atau enterprise). Lisensi ini bersifat permanen dan tidak memerlukan biaya tahunan, kecuali untuk upgrade atau pembelian tambahan.
